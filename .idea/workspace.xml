@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/Command.java" line="28" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="418ce3ea-9340-47a7-bcc3-8fde3b798fe7" name="Default" comment="" />
+    <list default="true" id="418ce3ea-9340-47a7-bcc3-8fde3b798fe7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_rxjava_rxjava_apache_http_0_20_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_rxjava_rxjava_core_0_20_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_1_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_io_1_3_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpasyncclient_4_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_nio_4_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_12.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_6.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/Command.class" afterPath="$PROJECT_DIR$/build/classes/main/Command.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/Starter.class" afterPath="$PROJECT_DIR$/build/classes/main/Starter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/hystrix-test_main.iml" afterPath="$PROJECT_DIR$/.idea/modules/hystrix-test_main.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/hystrix-test_test.iml" afterPath="$PROJECT_DIR$/.idea/modules/hystrix-test_test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Command.java" afterPath="$PROJECT_DIR$/src/main/java/Command.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Starter.java" afterPath="$PROJECT_DIR$/src/main/java/Starter.java" />
+    </list>
     <ignored path="hystrix-test.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -83,48 +109,107 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Command.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Command.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Command.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="16" column="77" lean-forward="false" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
+            <state relative-caret-position="69">
+              <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#3128#3129#0" expanded="true" />
+                <element signature="e#3211#3212#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Starter.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Observable.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/ce55d19a7aae6567b44e05f90ec0d065a41524/rxjava-1.2.0-sources.jar!/rx/Observable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="7539" column="35" lean-forward="false" selection-start-line="7539" selection-start-column="35" selection-end-line="7539" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Starter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Starter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+            <state relative-caret-position="313">
+              <caret line="49" column="40" lean-forward="false" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KQueueArrayWrapper.class" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/KQueueArrayWrapper.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="133" column="23" lean-forward="false" selection-start-line="133" selection-start-column="23" selection-end-line="133" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractCommand.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-core/1.5.12/b3ad4bd44c8f77df4615ea7750aa42d22ec755ed/hystrix-core-1.5.12-sources.jar!/com/netflix/hystrix/AbstractCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="363" column="25" lean-forward="false" selection-start-line="363" selection-start-column="25" selection-end-line="363" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BehaviorSubject.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/ce55d19a7aae6567b44e05f90ec0d065a41524/rxjava-1.2.0-sources.jar!/rx/subjects/BehaviorSubject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="216" column="21" lean-forward="true" selection-start-line="216" selection-start-column="21" selection-end-line="216" selection-end-column="21" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2840#2841#0" expanded="true" />
+                <element signature="e#2882#2883#0" expanded="true" />
+                <element signature="e#3487#3488#0" expanded="true" />
+                <element signature="e#3536#3537#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WireMock.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tomakehurst/wiremock/2.6.0/be1daa9e69ee89fe976364c4fc9616b8bad00b9f/wiremock-2.6.0-sources.jar!/com/github/tomakehurst/wiremock/client/WireMock.java">
+      <file leaf-file-name="NotificationLite.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/ce55d19a7aae6567b44e05f90ec0d065a41524/rxjava-1.2.0-sources.jar!/rx/internal/operators/NotificationLite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="124" column="23" lean-forward="false" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
+            <state relative-caret-position="325">
+              <caret line="233" column="14" lean-forward="false" selection-start-line="233" selection-start-column="14" selection-end-line="233" selection-end-column="14" />
               <folding>
-                <element signature="e#4406#4407#0" expanded="true" />
-                <element signature="e#4458#4459#0" expanded="true" />
+                <element signature="e#6648#6649#0" expanded="true" />
+                <element signature="e#6714#6715#0" expanded="true" />
+                <element signature="e#8274#8275#0" expanded="true" />
+                <element signature="e#8338#8339#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <file leaf-file-name="SubjectSubscriptionManager.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/ce55d19a7aae6567b44e05f90ec0d065a41524/rxjava-1.2.0-sources.jar!/rx/subjects/SubjectSubscriptionManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="111" column="19" lean-forward="false" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+            <state relative-caret-position="221">
+              <caret line="81" column="11" lean-forward="false" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
+              <folding>
+                <element signature="e#3086#3087#0" expanded="true" />
+                <element signature="e#3115#3116#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Subject.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/ce55d19a7aae6567b44e05f90ec0d065a41524/rxjava-1.2.0-sources.jar!/rx/subjects/Subject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -133,14 +218,19 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="345">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ObservableHttp</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -270,7 +360,9 @@
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$/../../dockercompose/zookeeper_query" value="2948976922000" />
-        <entry key="$PROJECT_DIR$" value="4494359141000" />
+        <entry key="$PROJECT_DIR$" value="4494449621000" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="2602731890" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="3725434708" />
         <entry key="$PROJECT_DIR$/../is-it-fish-day" value="1489007287000" />
         <entry key="$USER_HOME$/IdeaProjects/investments" value="2929050812000" />
       </map>
@@ -294,53 +386,96 @@
               <option name="name" value="hystrix-test" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/ant-1.9.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/ant-launcher-1.9.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/gradle-base-services-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/gradle-base-services-groovy-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/gradle-cli-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/gradle-core-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/gradle-docs-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/gradle-launcher-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/gradle-messaging-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/gradle-model-core-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/gradle-model-groovy-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/gradle-native-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/gradle-open-api-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/gradle-resources-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/gradle-tooling-api-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/gradle-ui-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/gradle-wrapper-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/groovy-all-2.3.6.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/ant-antlr-1.9.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-announce-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-antlr-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-build-comparison-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-build-init-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-code-quality-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-core-impl-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-cpp-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-diagnostics-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-ear-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-ide-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-ivy-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-jacoco-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-javascript-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-jetty-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-language-base-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-language-jvm-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-maven-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-osgi-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-plugin-development-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-plugin-use-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-plugins-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-publish-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-reporting-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-resources-http-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-scala-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-signing-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/gradle-sonar-2.1.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-bin/5b0mvpi458g6uwso3hnta42q2/gradle-2.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/core-impl" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/cpp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/language-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/sonar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/ant-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/ant-launcher-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/gradle-base-services-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/gradle-base-services-groovy-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/gradle-cli-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/gradle-core-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/gradle-docs-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/gradle-launcher-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/gradle-messaging-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/gradle-model-core-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/gradle-model-groovy-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/gradle-native-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/gradle-open-api-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/gradle-resources-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/gradle-tooling-api-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/gradle-ui-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/gradle-wrapper-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/groovy-all-2.3.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/ant-antlr-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-announce-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-antlr-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-build-comparison-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-build-init-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-code-quality-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-core-impl-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-cpp-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-diagnostics-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-ear-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-ide-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-ivy-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-jacoco-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-javascript-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-jetty-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-language-base-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-language-jvm-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-maven-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-osgi-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-plugin-development-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-plugin-use-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-plugins-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-publish-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-reporting-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-resources-http-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-scala-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-signing-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/gradle-sonar-2.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.1-all/488seql5pimt7vjvdsuqhh1ut/gradle-2.1/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -355,17 +490,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/HystrixCommand.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/java/Command.java" />
         <option value="$PROJECT_DIR$/src/main/java/Starter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Command.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
-    <option name="y" value="23" />
-    <option name="width" value="1241" />
-    <option name="height" value="777" />
+    <option name="x" value="1281" />
+    <option name="y" value="-257" />
+    <option name="width" value="1918" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -445,10 +581,8 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="OverrideImplement.combined" value="true" />
-    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="LayoutCode.rearrangeEntriesJava" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="dynamic.classpath" value="false" />
@@ -456,6 +590,7 @@
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="IntroduceConstantDialog.RECENTS_KEY">
@@ -760,25 +895,26 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="23" width="1241" height="777" extended-state="6" />
+    <frame x="1281" y="-257" width="1918" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23419689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25354463" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294412" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16204691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21055438" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -786,13 +922,36 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25354463" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294412" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -840,7 +999,18 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="java-exception">
+          <properties>
+            <option name="NOTIFY_UNCAUGHT" value="false" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
@@ -853,7 +1023,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#3128#3129#0" expanded="true" />
+            <element signature="e#3211#3212#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -862,9 +1033,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -873,8 +1042,177 @@
         <state relative-caret-position="885">
           <caret line="124" column="23" lean-forward="false" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
           <folding>
-            <element signature="e#4406#4407#0" expanded="true" />
-            <element signature="e#4458#4459#0" expanded="true" />
+            <element signature="e#4406#4407#0" expanded="false" />
+            <element signature="e#4458#4459#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="111" column="19" lean-forward="false" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tomakehurst/wiremock/2.6.0/be1daa9e69ee89fe976364c4fc9616b8bad00b9f/wiremock-2.6.0-sources.jar!/com/github/tomakehurst/wiremock/client/WireMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="124" column="23" lean-forward="false" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
+          <folding>
+            <element signature="e#4406#4407#0" expanded="false" />
+            <element signature="e#4458#4459#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="111" column="19" lean-forward="false" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-apache-http/0.20.7/6ba33a14a12b93a42f44537580bba27f54beef3e/rxjava-apache-http-0.20.7-sources.jar!/rx/apache/http/ObservableHttp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="93" column="37" lean-forward="false" selection-start-line="93" selection-start-column="37" selection-end-line="93" selection-end-column="37" />
+          <folding>
+            <element signature="e#3347#3348#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/ce55d19a7aae6567b44e05f90ec0d065a41524/rxjava-1.2.0-sources.jar!/rx/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="9984" column="30" lean-forward="false" selection-start-line="9984" selection-start-column="30" selection-end-line="9984" selection-end-column="30" />
+          <folding>
+            <element signature="e#4220#4221#0" expanded="false" />
+            <element signature="e#4285#4286#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-apache-http/0.20.7/6ba33a14a12b93a42f44537580bba27f54beef3e/rxjava-apache-http-0.20.7-sources.jar!/rx/apache/http/ObservableHttpResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="46" column="30" lean-forward="false" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+          <folding>
+            <element signature="e#1573#1574#0" expanded="false" />
+            <element signature="e#1615#1616#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore-nio/4.3/1cb5bffeb2cd1aa2aeaeb90d7bf746eeda2f8584/httpcore-nio-4.3-sources.jar!/org/apache/http/nio/protocol/HttpAsyncRequestExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="250" column="0" lean-forward="false" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="744" column="0" lean-forward="false" selection-start-line="744" selection-start-column="0" selection-end-line="744" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/ce55d19a7aae6567b44e05f90ec0d065a41524/rxjava-1.2.0-sources.jar!/rx/subjects/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/ce55d19a7aae6567b44e05f90ec0d065a41524/rxjava-1.2.0-sources.jar!/rx/subjects/BehaviorSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="100" column="42" lean-forward="false" selection-start-line="100" selection-start-column="42" selection-end-line="100" selection-end-column="42" />
+          <folding>
+            <element signature="e#2840#2841#0" expanded="true" />
+            <element signature="e#2882#2883#0" expanded="true" />
+            <element signature="e#3487#3488#0" expanded="true" />
+            <element signature="e#3536#3537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="61" column="89" lean-forward="false" selection-start-line="61" selection-start-column="89" selection-end-line="61" selection-end-column="89" />
+          <folding>
+            <element signature="e#3128#3129#0" expanded="true" />
+            <element signature="e#3211#3212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#3128#3129#0" expanded="true" />
+            <element signature="e#3211#3212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tomakehurst/wiremock/2.6.0/be1daa9e69ee89fe976364c4fc9616b8bad00b9f/wiremock-2.6.0-sources.jar!/com/github/tomakehurst/wiremock/client/WireMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="124" column="23" lean-forward="false" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
+          <folding>
+            <element signature="e#4406#4407#0" expanded="false" />
+            <element signature="e#4458#4459#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -908,8 +1246,8 @@
         <state relative-caret-position="15">
           <caret line="124" column="23" lean-forward="false" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
           <folding>
-            <element signature="e#4406#4407#0" expanded="true" />
-            <element signature="e#4458#4459#0" expanded="true" />
+            <element signature="e#4406#4407#0" expanded="false" />
+            <element signature="e#4458#4459#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -922,22 +1260,227 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="23" lean-forward="false" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Command.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="16" column="77" lean-forward="false" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="77" />
+        <state relative-caret-position="525">
+          <caret line="35" column="5" lean-forward="false" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#3128#3129#0" expanded="true" />
+            <element signature="e#3211#3212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#3128#3129#0" expanded="true" />
+            <element signature="e#3211#3212#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Starter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        <state relative-caret-position="255">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tomakehurst/wiremock/2.6.0/be1daa9e69ee89fe976364c4fc9616b8bad00b9f/wiremock-2.6.0-sources.jar!/com/github/tomakehurst/wiremock/client/WireMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="124" column="23" lean-forward="false" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#4406#4407#0" expanded="false" />
+            <element signature="e#4458#4459#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="111" column="19" lean-forward="false" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tomakehurst/wiremock/2.6.0/be1daa9e69ee89fe976364c4fc9616b8bad00b9f/wiremock-2.6.0-sources.jar!/com/github/tomakehurst/wiremock/client/WireMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="124" column="23" lean-forward="false" selection-start-line="124" selection-start-column="23" selection-end-line="124" selection-end-column="23" />
+          <folding>
+            <element signature="e#4406#4407#0" expanded="false" />
+            <element signature="e#4458#4459#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="111" column="19" lean-forward="false" selection-start-line="111" selection-start-column="19" selection-end-line="111" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-apache-http/0.20.7/6ba33a14a12b93a42f44537580bba27f54beef3e/rxjava-apache-http-0.20.7-sources.jar!/rx/apache/http/ObservableHttp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="93" column="37" lean-forward="false" selection-start-line="93" selection-start-column="37" selection-end-line="93" selection-end-column="37" />
+          <folding>
+            <element signature="e#3347#3348#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.rxjava/rxjava-apache-http/0.20.7/6ba33a14a12b93a42f44537580bba27f54beef3e/rxjava-apache-http-0.20.7-sources.jar!/rx/apache/http/ObservableHttpResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="46" column="30" lean-forward="false" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+          <folding>
+            <element signature="e#1573#1574#0" expanded="false" />
+            <element signature="e#1615#1616#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore-nio/4.3/1cb5bffeb2cd1aa2aeaeb90d7bf746eeda2f8584/httpcore-nio-4.3-sources.jar!/org/apache/http/nio/protocol/HttpAsyncRequestExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="250" column="0" lean-forward="false" selection-start-line="250" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="744" column="0" lean-forward="false" selection-start-line="744" selection-start-column="0" selection-end-line="744" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/ce55d19a7aae6567b44e05f90ec0d065a41524/rxjava-1.2.0-sources.jar!/rx/subjects/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/ce55d19a7aae6567b44e05f90ec0d065a41524/rxjava-1.2.0-sources.jar!/rx/subjects/SubjectSubscriptionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="81" column="11" lean-forward="false" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
+          <folding>
+            <element signature="e#3086#3087#0" expanded="true" />
+            <element signature="e#3115#3116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/ce55d19a7aae6567b44e05f90ec0d065a41524/rxjava-1.2.0-sources.jar!/rx/internal/operators/NotificationLite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="233" column="14" lean-forward="false" selection-start-line="233" selection-start-column="14" selection-end-line="233" selection-end-column="14" />
+          <folding>
+            <element signature="e#6648#6649#0" expanded="true" />
+            <element signature="e#6714#6715#0" expanded="true" />
+            <element signature="e#8274#8275#0" expanded="true" />
+            <element signature="e#8338#8339#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/ce55d19a7aae6567b44e05f90ec0d065a41524/rxjava-1.2.0-sources.jar!/rx/subjects/BehaviorSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="216" column="21" lean-forward="true" selection-start-line="216" selection-start-column="21" selection-end-line="216" selection-end-column="21" />
+          <folding>
+            <element signature="e#2840#2841#0" expanded="true" />
+            <element signature="e#2882#2883#0" expanded="true" />
+            <element signature="e#3487#3488#0" expanded="true" />
+            <element signature="e#3536#3537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.hystrix/hystrix-core/1.5.12/b3ad4bd44c8f77df4615ea7750aa42d22ec755ed/hystrix-core-1.5.12-sources.jar!/com/netflix/hystrix/AbstractCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="363" column="25" lean-forward="false" selection-start-line="363" selection-start-column="25" selection-end-line="363" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.2.0/ce55d19a7aae6567b44e05f90ec0d065a41524/rxjava-1.2.0-sources.jar!/rx/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="7539" column="35" lean-forward="false" selection-start-line="7539" selection-start-column="35" selection-end-line="7539" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_73.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/KQueueArrayWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="133" column="23" lean-forward="false" selection-start-line="133" selection-start-column="23" selection-end-line="133" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Starter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="49" column="40" lean-forward="false" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="28" column="33" lean-forward="false" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+          <folding>
+            <element signature="e#3128#3129#0" expanded="true" />
+            <element signature="e#3211#3212#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -999,7 +1542,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -1019,7 +1561,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Gradle: junit:junit:4.11</last-edited>
+          <last-edited>Gradle: com.fasterxml.jackson.core:jackson-annotations:2.8.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
